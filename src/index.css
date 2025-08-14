@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-image: url(imgs/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header , footer{
+    background: linear-gradient(270deg, rgb(2 0 11) 0%, rgb(20 16 52) 100%)
+}
+.copy{
+    color: white;
+    background: linear-gradient(90deg, rgb(2 0 11) 0%, rgb(20 16 52) 100%);
+}
