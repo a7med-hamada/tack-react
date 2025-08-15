@@ -5,7 +5,7 @@ return (
     >
         <div className="container mx-auto flex items-center justify-between">
             <div className="text-white font-bold text-xl tracking-wider w-full h-12 md:w-4/5">
-                <img className="h-full" src="https://i.postimg.cc/3NDZnNTs/13dba541ba67ff40e7d47120362134-removebg-preview.png" alt="" />
+                <img className="h-full" src="https://i.postimg.cc/508r2sHY/logo.png" alt="" />
             </div>
 
             {/* Search input */}
